@@ -9,5 +9,5 @@
             "@wdio/jasmine-framework"
         ],
         "target": "es2022"
-    }
+    },
 }
